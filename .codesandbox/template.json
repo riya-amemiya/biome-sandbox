@@ -1,0 +1,10 @@
+{
+  "title": "Biome template",
+  "description": "The official Biome CBS template",
+  "iconUrl": "https://raw.githubusercontent.com/biomejs/resources/main/icon/biome-icon.svg?raw=true",
+  "tags": [
+    "biome",
+    "javascript"
+  ],
+  "published": true
+}

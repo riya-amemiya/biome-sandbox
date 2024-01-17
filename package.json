@@ -1,0 +1,16 @@
+{
+  "name": "biome-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "format": "biome format .",
+    "check": "biome check .",
+    "lint": "biome lint .",
+    "rage": "biome rage"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@biomejs/biome": "^1.5.2"
+  },
+  "dependencies": {}
+}
